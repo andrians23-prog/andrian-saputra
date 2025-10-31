@@ -1,0 +1,5 @@
+{
+  "name": "Generator RPM Pro",
+  "description": "An intelligent application to automatically generate complete Professional Teaching Modules (RPM) including lesson plans, assessments, student worksheets (LKPD), and presentation drafts using AI.",
+  "requestFramePermissions": []
+}
